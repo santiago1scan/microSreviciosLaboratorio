@@ -1,6 +1,6 @@
 # Proyecto laboratorio
 
- ### integrantes:
+  ### integrantes:
   - Miguel Angel Calambas Vivas.
   - Esteban Santiago Escandon Causaya.
   
