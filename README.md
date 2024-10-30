@@ -1,10 +1,10 @@
 # Proyecto laboratorio
 
-  ###integrantes:
+  ### integrantes:
   - Miguel Angel Calambas Vivas.
   - Esteban Santiago Escandon Causaya.
   
-  ###Requisitos gestión artículos
+  ### Requisitos gestión artículos
 1) Yo como administrador quiero registrar un artículo para asociarlo a una conferencia.
 2) Yo como administrador quiero consultar un artículo para ver sus detalles
 3) Yo como administrador quiero listar todos los artículos para ver cuáles pueden ser mostrados en las
